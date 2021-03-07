@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sreekaransrinath/resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Google Docs Resume Template](https://docs.google.com/document/d/10eAPdAATRthisZBLTLMHk9iTM-BuoiF2tEHK4f8aPu4/edit?usp=sharing)
+[Overleaf Template](https://www.overleaf.com/read/smhdrcdmmjdj)
 
 ### Markdown
 
